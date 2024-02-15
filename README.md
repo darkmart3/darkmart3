@@ -32,6 +32,7 @@
 
 
 
+<!-- RenovaConstruct -->
 # [RenovaConstruct](https://renovaco.nl) 
 <p align="left" color="blue"></p>
 
@@ -40,13 +41,48 @@
 * Server side is built with JavaScript, PHP programming language (& Ajax). Hosted on NameCheap;
 
 <div>
-  <img src="https://github.com/MakaronX/MakaronX/blob/main/RENOVA img.png" alt="Renova"/>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/RENOVA img.png" alt="Renova"/>
 </div>
+
+<!-- #region MyBike -->
+# [MyBike](https://makaronx.github.io/layout_landing-page/#) 
+<p align="left" color="blue"></p>
+
+* MyBike is a ready-made test project from Mate-Academy;
+* The website was created according to SCSS standards, optimised and simplified;
+
+<div>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/MyBike.png" alt="MyBike"/>
+</div>
+
+<!-- Webovio -->
+# [Webovio](#) 
+<p align="left" style="color: blue;"></p>
+
+* Webovio - a website created using a layout from the Internet;
+
+<div>
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Webovio.gif" alt="Webovio"/>
+</div>
+
+<!-- Denis -->
+# [Denis Novik](#) 
+<p align="left" style="color: blue;"></p>
+
+* Denis Novikov - is a test project on the Internet;
+* The site was created by the portfolio;
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis%20Novik.png" alt="Denis Novik">
+</div>
+
 
 
 
 # Contact Info:
 
 - Email: gmartynyk@gmail.com
+- Instagram: gmart_03
+- 
 
 
