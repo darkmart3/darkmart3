@@ -76,7 +76,9 @@
   <img src="https://github.com/MakaronX/MakaronX/blob/main/img/Denis%20Novik.png" alt="Denis Novik">
 </div>
 
+# Contact Info:
 
+- Email: gmartynyk@gmail.com
 
 
 
