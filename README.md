@@ -47,6 +47,6 @@
 
 # Contact Info:
 
-- Email: decodealex1@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- Email: gmartynyk@gmail.com
+
 
