@@ -1,10 +1,38 @@
-<a href="https://s3.amazonaws.com/attachments.angel.co/7192901-687be9e284e21102b934d0b72399ac9d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T235828Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4920642ceb1885f01605debb7f6f9148dfcaa97bf073abc27e7b2a91e8531082" download>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fZEjmflebo9ZKQXpgh/giphy.gif" width="200"/>
+</div>
+
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=darkmart3" alt=""/>
+</div>
+
+
+<div id="hello" align="center">
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Pythot" alt="Python" width="40" height="40"/>&nbsp;
   
-<img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:decodealex1@gmail.comm">
-<img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/decodealex/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</div>
+
+
+
 
 # [DMV Test Prep](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
+
 <p align="left"> <a href="https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  <a href="https://play.google.com/store/apps/details?id=app.testologie.dmv" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
 </p>
 
@@ -134,3 +162,4 @@ Run with Firebase backend.
 
 - Email: decodealex1@gmail.com
 - LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+
