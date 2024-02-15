@@ -79,10 +79,6 @@
 
 
 
-# Contact Info:
 
-- Email: gmartynyk@gmail.com
-- Instagram: gmart_03
-- 
 
 
