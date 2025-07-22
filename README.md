@@ -27,7 +27,7 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <hr>
 <!-- - 🌱 I’m currently learning **Flutter and Laravel Development** -->
 
-- 📫 How to reach me **saad.karem8642@gmail.com**
+- 📫 How to reach me **gmartynyk@gmail.com**
 
 - ⚡ Fun fact **Always Want To Learn More 📚 .**
 
@@ -43,7 +43,7 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git,js,php,github,vscode,visualstudio,apple,discord,yarn,react,nextjs,ps," 
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git,js,php,github,visualstudio,apple,discord,yarn,react,nextjs,ps," 
 
  </p>
 
