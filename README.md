@@ -43,7 +43,7 @@ Lately, I have been focusing on frameworks such as Flutter and Laravel to elevat
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git,js,php,github,visualstudio,apple,discord,yarn,react,nextjs,ps," 
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,js,php,github,visualstudio,apple,discord,yarn,react,nextjs,ps," 
 
  </p>
 
